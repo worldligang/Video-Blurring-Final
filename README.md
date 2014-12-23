@@ -1,12 +1,9 @@
 Video-Blurring-Final
 ====================
 ---
-layout: post
-title: "iOS 7中实现模糊效果教程"
-date: 2014-12-23 16:21:21 +0800
-comments: true
-categories: 
----
+
+更多iOS技术请关注微信公众账号 iOS开发： iOSDevTip
+
 </br>
 本文译自[iOS 7 Blur Effects with GPUImage.](http://www.raywenderlich.com/60968/ios-7-blur-effects-gpuimage)
 
